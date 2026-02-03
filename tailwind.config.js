@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       fontSize: {
-        'xs': ['0.6rem', { lineHeight: '0.8rem' }],    // 80% of default
+        'xs': ['0.6rem', { lineHeight: '0.7rem' }],    // 70% of default
         'sm': ['0.7rem', { lineHeight: '1rem' }],
         'base': ['0.8rem', { lineHeight: '1.2rem' }],
         'lg': ['0.9rem', { lineHeight: '1.4rem' }],
