@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import { Sparkles, Brain, Star, Globe, Clock, MapPin, Loader2 } from 'lucide-react';
-import './index.css'
 
 const AstroMLExperience = () => {
   const [step, setStep] = useState('input');
