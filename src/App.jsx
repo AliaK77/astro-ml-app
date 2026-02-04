@@ -467,7 +467,7 @@ Make it feel like both an ancient oracle reading celestial omens and a neural ne
 
         <div className="mt-12 text-center text-sm text-purple-300/70 no-print">
           An artistic exploration of prediction systems ::: Blending ancient divination with machine learning
-          Created by <a href="https://kathodonnell.art">Kath O'Donnell</a> vibecoding with <a href="https://claude.ai">Claude</></a> ::: All Rights Reserved
+          Created by <a href="https://kathodonnell.art">Kath O'Donnell</a> vibecoding with <a href="https://claude.ai">Claude</a> ::: All Rights Reserved
         </div>
       </div>
     </div>
