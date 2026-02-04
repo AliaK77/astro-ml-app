@@ -461,12 +461,14 @@ Make it feel like both an ancient oracle reading celestial omens and a neural ne
               >
                 <span>🖨️</span> Print
               </button>
+              <!--
               <button
                 onClick={handleSaveJSON}
                 className="flex-1 py-3 bg-pink-500/20 hover:bg-pink-500/30 rounded-lg transition-all border border-pink-300/30 flex items-center justify-center gap-2"
               >
                 <span>📄</span> Save (JSON)
               </button>
+              -->  
             </div>
           </div>
         )}
