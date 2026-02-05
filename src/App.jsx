@@ -278,7 +278,7 @@ Make it feel like both an ancient oracle reading celestial omens and a neural ne
       `}</style>
       <div className="max-w-4xl mx-auto">
         <div className="text-center mb-12 no-print">
-          <div className="flex items-center justify-center gap-3 mb-4 print-content print-hide">
+          <div className="flex items-center justify-center gap-3 mb-4">
             <Star className="w-8 h-8 text-yellow-300" />
             <h1 className="text-4xl font-bold bg-gradient-to-r from-purple-300 to-pink-300 bg-clip-text text-transparent">
               Machine Astrology
@@ -400,7 +400,7 @@ Make it feel like both an ancient oracle reading celestial omens and a neural ne
             <div className="bg-gradient-to-br from-purple-900/50 to-pink-900/50 backdrop-blur-lg rounded-2xl p-8 border border-pink-300/20 print-content print-prediction">
               <h2 className="text-2xl font-semibold mb-6 flex items-center gap-2">
                 <Sparkles className="w-6 h-6 text-yellow-300" />
-                Generated Interpretation
+                Machine Astrology Generated Interpretation
               </h2>
               
               <p className="text-lg leading-relaxed text-purple-50 mb-6">
