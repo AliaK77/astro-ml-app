@@ -296,7 +296,6 @@ Make it feel like both an ancient oracle reading celestial omens and a neural ne
               <Sparkles className="w-6 h-6 text-yellow-300" />
               Enter Your Cosmic Coordinates
             </h2>
-            <p><em>Note: birth details are not saved after your predictions are generated</em></p>
             <div className="space-y-6">
               <div>
                 <label className="flex items-center gap-2 mb-2 text-purple-200">
@@ -465,9 +464,15 @@ Make it feel like both an ancient oracle reading celestial omens and a neural ne
           </div>
         )}
 
-        <div className="mt-12 text-center text-sm text-purple-300/70 no-print">
-          An artistic exploration of prediction systems ::: Blending ancient divination with machine learning ::: Created by <a href="https://kathodonnell.art">Kath O'Donnell</a> vibecoding with <a href="https://claude.ai">Claude</a> ::: All Rights Reserved
+        <div className="mt-12 text-center text-xs text-purple-300/70 no-print">
+          <p>An artistic exploration of prediction systems ::: Blending ancient divination with machine learning</p>
+          <p>Birth details are sent to our AI / machine for analysis - they are not saved after your predictions have been generated</em></p>
         </div>
+
+        <div className="mt-12 text-center text-xs text-purple-300/70 print-content print-hide">
+          <p>Created by <a href="https://kathodonnell.art">Kath O'Donnell</a> vibecoding with <a href="https://claude.ai">Claude</a> ::: All Rights Reserved</p>
+        </div>
+      
       </div>
     </div>
   );
