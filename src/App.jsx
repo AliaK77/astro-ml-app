@@ -465,12 +465,11 @@ Make it feel like both an ancient oracle reading celestial omens and a neural ne
         )}
 
         <div className="mt-12 text-center text-xs text-purple-300/70 no-print">
-          <p>An artistic exploration of prediction systems ::: Blending ancient divination with machine learning</p>
-          <p>Birth details are sent to our AI / machine for analysis - they are not saved after your predictions have been generated</em></p>
+          An artistic exploration of prediction systems ::: Blending ancient divination with machine learning ::: Birth details are sent to our AI / machine for analysis - they are not saved after your predictions have been generated
         </div>
 
         <div className="mt-12 text-center text-xs text-purple-300/70 print-content print-hide">
-          <p>Created by <a href="https://kathodonnell.art">Kath O'Donnell</a> vibecoding with <a href="https://claude.ai">Claude</a> ::: All Rights Reserved</p>
+          Created by <a href="https://kathodonnell.art">Kath O'Donnell</a> vibecoding with <a href="https://claude.ai">Claude</a> ::: All Rights Reserved
         </div>
       
       </div>
