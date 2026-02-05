@@ -277,10 +277,10 @@ Make it feel like both an ancient oracle reading celestial omens and a neural ne
         }
       `}</style>
       <div className="max-w-4xl mx-auto">
-        <div className="text-center mb-12">
-          <div className="flex items-center justify-center gap-3 mb-4">
+        <div className="text-center mb-12 no-print">
+          <div className="flex items-center justify-center gap-3 mb-4 no-print">
             <Star className="w-8 h-8 text-yellow-300 no-print" />
-            <h1 className="text-4xl font-bold bg-gradient-to-r from-purple-300 to-pink-300 bg-clip-text text-transparent print-content print-hide">
+            <h1 className="text-4xl font-bold bg-gradient-to-r from-purple-300 to-pink-300 bg-clip-text text-transparent print-content">
               Machine Astrology
             </h1>
             <Brain className="w-8 h-8 text-cyan-300 no-print" />
