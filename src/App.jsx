@@ -277,15 +277,15 @@ Make it feel like both an ancient oracle reading celestial omens and a neural ne
         }
       `}</style>
       <div className="max-w-4xl mx-auto">
-        <div className="text-center mb-12 no-print">
+        <div className="text-center mb-12">
           <div className="flex items-center justify-center gap-3 mb-4 no-print">
-            <Star className="w-8 h-8 text-yellow-300 no-print" />
-            <h1 className="text-4xl font-bold bg-gradient-to-r from-purple-300 to-pink-300 bg-clip-text text-transparent print-content">
+            <Star className="w-8 h-8 text-yellow-300" />
+            <h1 className="text-4xl font-bold bg-gradient-to-r from-purple-300 to-pink-300 bg-clip-text text-transparent">
               Machine Astrology
             </h1>
-            <Brain className="w-8 h-8 text-cyan-300 no-print" />
+            <Brain className="w-8 h-8 text-cyan-300" />
           </div>
-          <p className="text-purple-200 text-sm">
+          <p className="text-purple-200 text-sm no-print">
             Celestial Pattern Recognition ::: Neural Divination System ::: For artistic exploration
           </p>
         </div>
